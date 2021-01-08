@@ -1,0 +1,17 @@
+flavor	price	weight	fat_free	sodium_free	gluten_free	organic	multipack	ranking
+"cheese&onion"	"$1.00"	"100g"	"fat_free NO"	"low_sodium NO"	"gluten_free NO"	"organic NO"	"multipack NO"	11
+"salt&vinegar"	"$3.00"	"100g"	"fat_free NO"	"low_sodium YES"	"gluten_free YES"	"organic YES"	"multipack NO"	12
+"chicken_flavored"	"$4.00"	"200g"	"fat_free NO"	"low_sodium NO"	"gluten_free NO"	"organic YES"	"multipack NO"	9
+"salt&vinegar"	"$4.00"	"400g"	"fat_free YES"	"low_sodium YES"	"gluten_free NO"	"organic NO"	"multipack NO"	2
+"salt&vinegar"	"$2.00"	"300g"	"fat_free NO"	"low_sodium NO"	"gluten_free NO"	"organic YES"	"multipack YES"	8
+"salt&vinegar"	"$1.00"	"200g"	"fat_free YES"	"low_sodium NO"	"gluten_free YES"	"organic NO"	"multipack YES"	13
+"chicken_flavored"	"$3.00"	"300g"	"fat_free YES"	"low_sodium NO"	"gluten_free YES"	"organic NO"	"multipack NO"	7
+"cheese&onion"	"$4.00"	"300g"	"fat_free NO"	"low_sodium YES"	"gluten_free YES"	"organic NO"	"multipack YES"	4
+"cheese&onion"	"$2.00"	"400g"	"fat_free YES"	"low_sodium NO"	"gluten_free YES"	"organic YES"	"multipack NO"	5
+"tomato_ketchup"	"$4.00"	"100g"	"fat_free YES"	"low_sodium NO"	"gluten_free YES"	"organic YES"	"multipack YES"	16
+"chicken_flavored"	"$1.00"	"400g"	"fat_free NO"	"low_sodium YES"	"gluten_free YES"	"organic YES"	"multipack YES"	3
+"tomato_ketchup"	"$2.00"	"200g"	"fat_free NO"	"low_sodium YES"	"gluten_free YES"	"organic NO"	"multipack NO"	6
+"tomato_ketchup"	"$1.00"	"300g"	"fat_free YES"	"low_sodium YES"	"gluten_free NO"	"organic YES"	"multipack NO"	10
+"chicken_flavored"	"$2.00"	"100g"	"fat_free YES"	"low_sodium YES"	"gluten_free NO"	"organic NO"	"multipack YES"	15
+"tomato_ketchup"	"$3.00"	"400g"	"fat_free NO"	"low_sodium NO"	"gluten_free NO"	"organic NO"	"multipack YES"	1
+"cheese&onion"	"$3.00"	"200g"	"fat_free YES"	"low_sodium YES"	"gluten_free NO"	"organic YES"	"multipack YES"	14
